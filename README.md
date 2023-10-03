@@ -10,7 +10,9 @@ You can access the projects using the link provided below.
 https://github.com/DeepikhaR/Data-Analyst-Portfolio-Projects/tree/a5bcdbdda63f891074c783259e202fbcdbddf739/Python%20EDA%20Project
 
 
+
 _COVID Analysis_
+
 
 
 In this COVID-19 analysis project, I used data-driven techniques to provide a deep understanding of the global pandemic. 
@@ -31,7 +33,10 @@ In this COVID-19 analysis project, I used data-driven techniques to provide a de
 
 
 
+
+
 _Sales Analysis_
+
 
 
 In this project, I focused on analyzing sales data to extract valuable insights and answer business questions.
@@ -49,7 +54,10 @@ In this project, I focused on analyzing sales data to extract valuable insights 
 6)Products often sold together:  I explored which products are frequently sold together .
 
 
-_Youtube Analysis _
+
+
+_Youtube Analysis_
+
 
 
 In this project, I conducted analysis of YouTube data to uncover valuable insights. 
@@ -71,6 +79,7 @@ Throughout this analysis, I used Python libraries such as Pandas for data cleani
 
 
 
+
 **PowerBi Dashboards**
 
 
@@ -82,7 +91,10 @@ https://github.com/DeepikhaR/Data-Analyst-Portfolio-Projects/tree/a5bcdbdda63f89
 
 
 
+
 _Ecommerce Sales Dashboard_
+
+
 
 
 1)Transformed data using Power Query and performed the ETL operations.
@@ -103,7 +115,13 @@ _Ecommerce Sales Dashboard_
 
 
 
-_Business Performance Dashboard _
+
+
+
+_Business Performance Dashboard_
+
+
+
 
 
 1) Key metrics - sales, gross sales, cost of goods sold (COGS), and profit.
@@ -119,7 +137,12 @@ _Business Performance Dashboard _
 6) Added slicers to check the performance based on Country,Product,Segment and Discount band.
 
 
+
+
+
 _HR Analytics Dashboard_
+
+
 
 
 1)Transformed data using Power Query and performed the ETL operations.
@@ -131,7 +154,12 @@ _HR Analytics Dashboard_
 4)This visual analysis enables you to pinpoint attrition trends based on diverse factors.
 
 
+
+
+
 _Survey Analysis Dasboard_
+
+
 
 
 1)Transformed data using Power Query and performed the ETL operations.
