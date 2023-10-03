@@ -15,21 +15,28 @@ _COVID Analysis_
 
 
 
-In this COVID-19 analysis project, I used data-driven techniques to provide a deep understanding of the global pandemic. 
+  In this COVID-19 analysis project, I used data-driven techniques to provide a deep understanding of the global pandemic. 
 
-1)Top Countries Analysis: I conducted an analysis, utilizing Plotly to craft a variety of informative charts, to pinpoint the countries mostly impacted by COVID-19. These visualizations showcased the nations with the highest total cases, maximum deaths, total recoveries, and active cases. 
+  1)Top Countries Analysis: I conducted an analysis, utilizing Plotly to craft a variety of informative charts, to pinpoint the countries mostly 
+  impacted by COVID-19. These visualizations showcased the nations with the highest total cases, maximum deaths, total recoveries, and active 
+  cases. 
 
-2)Cases over Time: Through interactive line charts, I meticulously tracked the progression of COVID-19 cases over time. 
+  2)Cases over Time: Through interactive line charts, I meticulously tracked the progression of COVID-19 cases over time. 
 
-3)Population vs. Testing Ratio: I explored the ratio between a country's population and the total number of COVID-19 tests administered. This ratio showed the effectiveness of testing strategies and testing coverage relative to the population.
+  3)Population vs. Testing Ratio: I explored the ratio between a country's population and the total number of COVID-19 tests administered. This 
+  ratio showed the effectiveness of testing strategies and testing coverage relative to the population.
 
-3)Death and Recovery Ratios: By assessing the ratio between the number of deaths and total recoveries, I understood the severity of the pandemic in different regions. 
+  4)Death and Recovery Ratios: By assessing the ratio between the number of deaths and total recoveries, I understood the severity of the 
+  pandemic in different regions. 
 
-4)Test-to-Confirmed Ratio: I investigated the ratio between the total tests conducted and confirmed cases. This metric offered insights into a country's testing efficiency .
+  5)Test-to-Confirmed Ratio: I investigated the ratio between the total tests conducted and confirmed cases. This metric offered insights into a 
+  country's testing efficiency .
 
-5)Death-to-Serious Cases Ratio: Analyzing the ratio between deaths and serious cases, I provided a view of the pandemic's impact on individuals with severe illness.
+  6)Death-to-Serious Cases Ratio: Analyzing the ratio between deaths and serious cases, I provided a view of the pandemic's impact on individuals 
+  with severe illness.
 
-6)Most Affected Countries: Finally, I identified and ranked the most affected countries based on total deaths, total recoveries, and active cases. 
+  7)Most Affected Countries: Finally, I identified and ranked the most affected countries based on total deaths, total recoveries, and active 
+  cases. 
 
 
 
@@ -39,19 +46,20 @@ _Sales Analysis_
 
 
 
-In this project, I focused on analyzing sales data to extract valuable insights and answer business questions.
+  In this project, I focused on analyzing sales data to extract valuable insights and answer business questions.
 
-1)Data Cleaning: I cleaned the dataset by removing null values and duplicated entries, ensuring the accuracy and reliability of the analysis.
+  1)Data Cleaning: I cleaned the dataset by removing null values and duplicated entries, ensuring the accuracy and reliability of the analysis.
 
-2)Monthly Sales: I identified the month with the highest sales, helping to pinpoint peak periods.
+  2)Monthly Sales: I identified the month with the highest sales, helping to pinpoint peak periods.
 
-3)Top-Performing City: By analyzing the data, I determined which city generated the maximum number of orders, providing valuable information for targeting marketing efforts.
+  3)Top-Performing City: By analyzing the data, I determined which city generated the maximum number of orders, providing valuable information 
+  for targeting marketing efforts.
 
-4)Best-Selling Product: I identified the product that sold the most units and reasons behind its popularity.
+  4)Best-Selling Product: I identified the product that sold the most units and reasons behind its popularity.
 
-5)Product Trend Analysis: I examined the sales trend of the best-selling products over time.
+  5)Product Trend Analysis: I examined the sales trend of the best-selling products over time.
 
-6)Products often sold together:  I explored which products are frequently sold together .
+  6)Products often sold together:  I explored which products are frequently sold together .
 
 
 
@@ -60,21 +68,23 @@ _Youtube Analysis_
 
 
 
-In this project, I conducted analysis of YouTube data to uncover valuable insights. 
+  In this project, I conducted analysis of YouTube data to uncover valuable insights. 
 
-1)Sentiment Analysis: I performed sentiment analysis on comments to understand the emotional response of viewers.
+  1)Sentiment Analysis: I performed sentiment analysis on comments to understand the emotional response of viewers.
 
-2)WordCloud Analysis: Utilizing word clouds, I visualized the most frequent terms in the positive and negative comments .
+  2)WordCloud Analysis: Utilizing word clouds, I visualized the most frequent terms in the positive and negative comments .
 
-3)Most Liked Category: I determined the category of videos that received the most likes, offering insights into viewer preferences.
+  3)Most Liked Category: I determined the category of videos that received the most likes, offering insights into viewer preferences.
 
-4)Audience Engagement: I assessed whether the audience is actively engaging with the content by analyzing the like rate,dislike rate,comments count rate.
+  4)Audience Engagement: I assessed whether the audience is actively engaging with the content by analyzing the like rate,dislike rate,comments 
+  count rate.
 
-5)Likes vs. Views: I explored the relationship between likes and views, providing valuable insights into viewer behavior.
+  5)Likes vs. Views: I explored the relationship between likes and views, providing valuable insights into viewer behavior.
 
-6)Trending Video Channels: I identified which YouTube channels had the largest number of trending videos.
+  6)Trending Video Channels: I identified which YouTube channels had the largest number of trending videos.
 
-Throughout this analysis, I used Python libraries such as Pandas for data cleaning, Seaborn for visualization, and Plotly for interactive data exploration. This project provides a deeper understanding of YouTube trends and audience behavior.
+  Throughout this analysis, I used Python libraries such as Pandas for data cleaning, Seaborn for visualization, and Plotly for interactive data 
+  exploration. This project provides a deeper understanding of YouTube trends and audience behavior.
 
 
 
@@ -97,21 +107,21 @@ _Ecommerce Sales Dashboard_
 
 
 
-1)Transformed data using Power Query and performed the ETL operations.
+  1)Transformed data using Power Query and performed the ETL operations.
 
-2)Used time intelligence function in DAX for calculating Year to Date,Previous Year to Date , Year over Year.
+  2)Used time intelligence function in DAX for calculating Year to Date,Previous Year to Date , Year over Year.
 
-3)Key Metrics -- Year to Date(YTD) Sales, YTD Profit , YTD Profit Margin , YTD Quantity.
+  3)Key Metrics -- Year to Date(YTD) Sales, YTD Profit , YTD Profit Margin , YTD Quantity.
 
-4)Displayed the top and bottom 5 Products based on YTD sales in two different column charts.
+  4)Displayed the top and bottom 5 Products based on YTD sales in two different column charts.
 
-5)The YTD sales based on region and shipping is visualized using two different Donut charts.
+  5)The YTD sales based on region and shipping is visualized using two different Donut charts.
 
-6)Also provided the analyzes based on Sales by Category and Sales by State. 
+  6)Also provided the analyzes based on Sales by Category and Sales by State. 
 
-7)Customized the trend icon based on conditions.
+  7)Customized the trend icon based on conditions.
 
-8)Added slicers to filter out using the three options Consumer , Home Office , Corporate.
+  8)Added slicers to filter out using the three options Consumer , Home Office , Corporate.
 
 
 
@@ -124,17 +134,17 @@ _Business Performance Dashboard_
 
 
 
-1) Key metrics - sales, gross sales, cost of goods sold (COGS), and profit.
+  1) Key metrics - sales, gross sales, cost of goods sold (COGS), and profit.
 
-2) All the key metrics are  analyzed with a focus on year-over-year comparisons.
+  2) All the key metrics are  analyzed with a focus on year-over-year comparisons.
 
-3) The trends of 2013 and 2014 sales graphically represented in a detailed line chart. 
+  3) The trends of 2013 and 2014 sales graphically represented in a detailed line chart. 
 
-4) Product segments with a matrix displaying the top three products in each category. 
+  4) Product segments with a matrix displaying the top three products in each category. 
 
-5) Sales data across countries for 2013 and 2014, visualized through intuitive column charts. 
+  5) Sales data across countries for 2013 and 2014, visualized through intuitive column charts. 
 
-6) Added slicers to check the performance based on Country,Product,Segment and Discount band.
+  6) Added slicers to check the performance based on Country,Product,Segment and Discount band.
 
 
 
@@ -145,13 +155,13 @@ _HR Analytics Dashboard_
 
 
 
-1)Transformed data using Power Query and performed the ETL operations.
+  1)Transformed data using Power Query and performed the ETL operations.
 
-2)Key metrics - employee count, attrition, attrition rate, average salary, average age, and average tenure. 
+  2)Key metrics - employee count, attrition, attrition rate, average salary, average age, and average tenure. 
 
-3)I have displayed the attrition patterns using dynamic charts representing attrition by age, salary, gender, job role, and education level.
+  3)I have displayed the attrition patterns using dynamic charts representing attrition by age, salary, gender, job role, and education level.
 
-4)This visual analysis enables you to pinpoint attrition trends based on diverse factors.
+  4)This visual analysis enables you to pinpoint attrition trends based on diverse factors.
 
 
 
@@ -162,11 +172,12 @@ _Survey Analysis Dasboard_
 
 
 
-1)Transformed data using Power Query and performed the ETL operations.
+  1)Transformed data using Power Query and performed the ETL operations.
 
-2)For individuals in the data domain and people interested in data domain this dashboard presents a global perspective on key factors.
+  2)For individuals in the data domain and people interested in data domain this dashboard presents a global perspective on key factors.
 
-3)Provides insights on survey takers' countries, the perceived difficulty of entering the data field, satisfaction levels with salary, and work-life balance. 
+  3)Provides insights on survey takers' countries, the perceived difficulty of entering the data field, satisfaction levels with salary, and 
+  work- life balance. 
 
 
 
