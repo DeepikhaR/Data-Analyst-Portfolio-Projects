@@ -7,9 +7,11 @@ I have engaged in multiple projects involving Power BI, Python, and SQL. Explore
 
 You can access the projects using the link provided below.
 
+https://github.com/DeepikhaR/Data-Analyst-Portfolio-Projects/tree/a5bcdbdda63f891074c783259e202fbcdbddf739/Python%20EDA%20Project
 
 
----------------------------------------------------------------COVID Analysis---------------------------------------------------------------------
+_COVID Analysis_
+
 
 In this COVID-19 analysis project, I used data-driven techniques to provide a deep understanding of the global pandemic. 
 
@@ -29,7 +31,7 @@ In this COVID-19 analysis project, I used data-driven techniques to provide a de
 
 
 
--------------------------------------------------------------Sales Analysis-----------------------------------------------------------------------
+_Sales Analysis_
 
 
 In this project, I focused on analyzing sales data to extract valuable insights and answer business questions.
@@ -47,8 +49,7 @@ In this project, I focused on analyzing sales data to extract valuable insights 
 6)Products often sold together:  I explored which products are frequently sold together .
 
 
-
------------------------------------------------------------ Youtube Analysis ---------------------------------------------------------------------
+_Youtube Analysis _
 
 
 In this project, I conducted analysis of YouTube data to uncover valuable insights. 
@@ -68,16 +69,20 @@ In this project, I conducted analysis of YouTube data to uncover valuable insigh
 Throughout this analysis, I used Python libraries such as Pandas for data cleaning, Seaborn for visualization, and Plotly for interactive data exploration. This project provides a deeper understanding of YouTube trends and audience behavior.
 
 
+
+
 **PowerBi Dashboards**
+
+
 
 You can access the dashboards using the link provided below.
 
 
+https://github.com/DeepikhaR/Data-Analyst-Portfolio-Projects/tree/a5bcdbdda63f891074c783259e202fbcdbddf739/PowerBI%20Dashboard
 
 
 
-
---------------------------------------------------------Ecommerce Sales Dashboard-----------------------------------------------------------------
+_Ecommerce Sales Dashboard_
 
 
 1)Transformed data using Power Query and performed the ETL operations.
@@ -97,7 +102,9 @@ You can access the dashboards using the link provided below.
 8)Added slicers to filter out using the three options Consumer , Home Office , Corporate.
 
 
------------------------------------------------------ Business Performance Dashboard -------------------------------------------------------------
+
+_Business Performance Dashboard _
+
 
 1) Key metrics - sales, gross sales, cost of goods sold (COGS), and profit.
 
@@ -112,7 +119,7 @@ You can access the dashboards using the link provided below.
 6) Added slicers to check the performance based on Country,Product,Segment and Discount band.
 
 
-------------------------------------------------------  HR Analytics Dashboard--------------------------------------------------------------------
+_HR Analytics Dashboard_
 
 
 1)Transformed data using Power Query and performed the ETL operations.
@@ -124,7 +131,7 @@ You can access the dashboards using the link provided below.
 4)This visual analysis enables you to pinpoint attrition trends based on diverse factors.
 
 
-------------------------------------------------------- Survey Analysis Dashboard ----------------------------------------------------------------
+_Survey Analysis Dasboard_
 
 
 1)Transformed data using Power Query and performed the ETL operations.
