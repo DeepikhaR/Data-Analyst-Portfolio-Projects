@@ -48,21 +48,23 @@ __1)COVID Analysis__
 __2)Sales Analysis__
 
 
-
   In this project, I focused on analyzing sales data to extract valuable insights and answer business questions.
 
-  1)Data Cleaning: I cleaned the dataset by removing null values and duplicated entries, ensuring the accuracy and reliability of the analysis.
 
-  2)Monthly Sales: I identified the month with the highest sales, helping to pinpoint peak periods.
+  
 
-  3)Top-Performing City: By analyzing the data, I determined which city generated the maximum number of orders, providing valuable information 
-  for targeting marketing efforts.
+    ->Data Cleaning: I cleaned the dataset by removing null values and duplicated entries, ensuring the accuracy and reliability of the analysis.
 
-  4)Best-Selling Product: I identified the product that sold the most units and reasons behind its popularity.
+    ->Monthly Sales: I identified the month with the highest sales, helping to pinpoint peak periods.
 
-  5)Product Trend Analysis: I examined the sales trend of the best-selling products over time.
+    ->Top-Performing City: By analyzing the data, I determined which city generated the maximum number of orders, providing valuable information 
+      for targeting marketing efforts.
 
-  6)Products often sold together:  I explored which products are frequently sold together .
+    ->Best-Selling Product: I identified the product that sold the most units and reasons behind its popularity.
+
+    ->Product Trend Analysis: I examined the sales trend of the best-selling products over time.
+
+    ->Products often sold together:  I explored which products are frequently sold together .
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -72,24 +74,26 @@ __2)Sales Analysis__
 __3)Youtube Analysis__
 
 
-
   In this project, I conducted analysis of YouTube data to uncover valuable insights. 
 
-  1)Sentiment Analysis: I performed sentiment analysis on comments to understand the emotional response of viewers.
 
-  2)WordCloud Analysis: Utilizing word clouds, I visualized the most frequent terms in the positive and negative comments .
+  
 
-  3)Most Liked Category: I determined the category of videos that received the most likes, offering insights into viewer preferences.
+    ->Sentiment Analysis: I performed sentiment analysis on comments to understand the emotional response of viewers.
 
-  4)Audience Engagement: I assessed whether the audience is actively engaging with the content by analyzing the like rate,dislike rate,comments 
-  count rate.
+    ->WordCloud Analysis: Utilizing word clouds, I visualized the most frequent terms in the positive and negative comments .
 
-  5)Likes vs. Views: I explored the relationship between likes and views, providing valuable insights into viewer behavior.
+    ->Most Liked Category: I determined the category of videos that received the most likes, offering insights into viewer preferences.
 
-  6)Trending Video Channels: I identified which YouTube channels had the largest number of trending videos.
+    ->Audience Engagement: I assessed whether the audience is actively engaging with the content by analyzing the like rate,dislike rate,comments 
+      count rate.
 
-  Throughout this analysis, I used Python libraries such as Pandas for data cleaning, Seaborn for visualization, and Plotly for interactive data 
-  exploration. This project provides a deeper understanding of YouTube trends and audience behavior.
+    ->Likes vs. Views: I explored the relationship between likes and views, providing valuable insights into viewer behavior.
+
+    ->Trending Video Channels: I identified which YouTube channels had the largest number of trending videos.
+
+      Throughout this analysis, I used Python libraries such as Pandas for data cleaning, Seaborn for visualization, and Plotly for interactive data 
+      exploration. This project provides a deeper understanding of YouTube trends and audience behavior.
 
 
 
