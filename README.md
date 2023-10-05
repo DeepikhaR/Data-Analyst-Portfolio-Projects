@@ -109,21 +109,21 @@ __1)Ecommerce Sales Dashboard__
  
 
 
-    -Transformed data using Power Query and performed the ETL operations.
+    ->Transformed data using Power Query and performed the ETL operations.
 
-    -Used time intelligence function in DAX for calculating Year to Date,Previous Year to Date , Year over Year.
+    ->Used time intelligence function in DAX for calculating Year to Date,Previous Year to Date , Year over Year.
 
-    -Key Metrics -- Year to Date(YTD) Sales, YTD Profit , YTD Profit Margin , YTD Quantity.
+    ->Key Metrics -- Year to Date(YTD) Sales, YTD Profit , YTD Profit Margin , YTD Quantity.
 
-    -Displayed the top and bottom 5 Products based on YTD sales in two different column charts.
+    ->Displayed the top and bottom 5 Products based on YTD sales in two different column charts.
 
-    -The YTD sales based on region and shipping is visualized using two different Donut charts.
+    ->The YTD sales based on region and shipping is visualized using two different Donut charts.
 
-    -Also provided the analyzes based on Sales by Category and Sales by State. 
+    ->Also provided the analyzes based on Sales by Category and Sales by State. 
 
-    -Customized the trend icon based on conditions.
+    ->Customized the trend icon based on conditions.
 
-    -Added slicers to filter out using the three options Consumer , Home Office , Corporate.
+    ->Added slicers to filter out using the three options Consumer , Home Office , Corporate.
 
 
 
