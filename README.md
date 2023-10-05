@@ -136,18 +136,18 @@ __2)Business Performance Dashboard__
 
 
 
+    -> Key metrics - sales, gross sales, cost of goods sold (COGS), and profit.
 
-  -> Key metrics - sales, gross sales, cost of goods sold (COGS), and profit.
+    -> All the key metrics are  analyzed with a focus on year-over-year comparisons.
 
-  -> All the key metrics are  analyzed with a focus on year-over-year comparisons.
+    -> The trends of 2013 and 2014 sales graphically represented in a detailed line chart. 
 
-  -> The trends of 2013 and 2014 sales graphically represented in a detailed line chart. 
+    -> Product segments with a matrix displaying the top three products in each category. 
 
-  -> Product segments with a matrix displaying the top three products in each category. 
+    -> Sales data across countries for 2013 and 2014, visualized through intuitive column charts. 
 
-  -> Sales data across countries for 2013 and 2014, visualized through intuitive column charts. 
-
-  -> Added slicers to check the performance based on Country,Product,Segment and Discount band.
+    -> Added slicers to check the performance based on Country,Product,Segment and Discount band.
+    
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
