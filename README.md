@@ -11,7 +11,7 @@ https://github.com/DeepikhaR/Data-Analyst-Portfolio-Projects/tree/a5bcdbdda63f89
 
 
 
-_COVID Analysis_
+__COVID Analysis__
 
 
 
