@@ -20,25 +20,25 @@ __1)COVID Analysis__
   
 
     ->Top Countries Analysis: I conducted an analysis, utilizing Plotly to craft a variety of informative charts, to pinpoint the countries mostly 
-  impacted by COVID-19. These visualizations showcased the nations with the highest total cases, maximum deaths, total recoveries, and active 
-  cases. 
+      impacted by COVID-19. These visualizations showcased the nations with the highest total cases, maximum deaths, total recoveries, and active 
+      cases. 
 
     ->Cases over Time: Through interactive line charts, I meticulously tracked the progression of COVID-19 cases over time. 
 
     ->Population vs. Testing Ratio: I explored the ratio between a country's population and the total number of COVID-19 tests administered. This 
-  ratio showed the effectiveness of testing strategies and testing coverage relative to the population.
+      ratio showed the effectiveness of testing strategies and testing coverage relative to the population.
 
     ->Death and Recovery Ratios: By assessing the ratio between the number of deaths and total recoveries, I understood the severity of the 
-  pandemic in different regions. 
+      pandemic in different regions. 
 
     ->Test-to-Confirmed Ratio: I investigated the ratio between the total tests conducted and confirmed cases. This metric offered insights into a 
-  country's testing efficiency .
+      country's testing efficiency .
 
-   ->Death-to-Serious Cases Ratio: Analyzing the ratio between deaths and serious cases, I provided a view of the pandemic's impact on individuals 
-  with severe illness.
+    ->Death-to-Serious Cases Ratio: Analyzing the ratio between deaths and serious cases, I provided a view of the pandemic's impact on individuals 
+      with severe illness.
 
-   ->Most Affected Countries: Finally, I identified and ranked the most affected countries based on total deaths, total recoveries, and active 
-   cases. 
+    ->Most Affected Countries: Finally, I identified and ranked the most affected countries based on total deaths, total recoveries, and active 
+      cases. 
 
 
 
