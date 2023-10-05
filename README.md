@@ -137,17 +137,17 @@ __2)Business Performance Dashboard__
 
 
 
-  1) Key metrics - sales, gross sales, cost of goods sold (COGS), and profit.
+  -> Key metrics - sales, gross sales, cost of goods sold (COGS), and profit.
 
-  2) All the key metrics are  analyzed with a focus on year-over-year comparisons.
+  -> All the key metrics are  analyzed with a focus on year-over-year comparisons.
 
-  3) The trends of 2013 and 2014 sales graphically represented in a detailed line chart. 
+  -> The trends of 2013 and 2014 sales graphically represented in a detailed line chart. 
 
-  4) Product segments with a matrix displaying the top three products in each category. 
+  -> Product segments with a matrix displaying the top three products in each category. 
 
-  5) Sales data across countries for 2013 and 2014, visualized through intuitive column charts. 
+  -> Sales data across countries for 2013 and 2014, visualized through intuitive column charts. 
 
-  6) Added slicers to check the performance based on Country,Product,Segment and Discount band.
+  -> Added slicers to check the performance based on Country,Product,Segment and Discount band.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -158,13 +158,13 @@ __3)HR Analytics Dashboard__
 
 
 
-  1)Transformed data using Power Query and performed the ETL operations.
+  ->Transformed data using Power Query and performed the ETL operations.
 
-  2)Key metrics - employee count, attrition, attrition rate, average salary, average age, and average tenure. 
+  ->Key metrics - employee count, attrition, attrition rate, average salary, average age, and average tenure. 
 
-  3)I have displayed the attrition patterns using dynamic charts representing attrition by age, salary, gender, job role, and education level.
+  ->I have displayed the attrition patterns using dynamic charts representing attrition by age, salary, gender, job role, and education level.
 
-  4)This visual analysis enables you to pinpoint attrition trends based on diverse factors.
+  ->This visual analysis enables you to pinpoint attrition trends based on diverse factors.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -175,11 +175,11 @@ __4)Survey Analysis Dasboard__
 
 
 
-  1)Transformed data using Power Query and performed the ETL operations.
+  ->Transformed data using Power Query and performed the ETL operations.
 
-  2)For individuals in the data domain and people interested in data domain this dashboard presents a global perspective on key factors.
+  ->For individuals in the data domain and people interested in data domain this dashboard presents a global perspective on key factors.
 
-  3)Provides insights on survey takers' countries, the perceived difficulty of entering the data field, satisfaction levels with salary, and 
+  ->Provides insights on survey takers' countries, the perceived difficulty of entering the data field, satisfaction levels with salary, and 
   work- life balance. 
 
 
