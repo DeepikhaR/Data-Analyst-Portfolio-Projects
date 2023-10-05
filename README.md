@@ -11,7 +11,7 @@ https://github.com/DeepikhaR/Data-Analyst-Portfolio-Projects/tree/a5bcdbdda63f89
 
 
 
-__COVID Analysis__
+__1)COVID Analysis__
 
 
 
@@ -39,10 +39,10 @@ __COVID Analysis__
   cases. 
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-_Sales Analysis_
+__2)Sales Analysis__
 
 
 
@@ -64,7 +64,7 @@ _Sales Analysis_
 
 
 
-_Youtube Analysis_
+__3)Youtube Analysis__
 
 
 
@@ -102,7 +102,7 @@ https://github.com/DeepikhaR/Data-Analyst-Portfolio-Projects/tree/a5bcdbdda63f89
 
 
 
-_Ecommerce Sales Dashboard_
+__1)Ecommerce Sales Dashboard__
 
 
 
@@ -128,7 +128,7 @@ _Ecommerce Sales Dashboard_
 
 
 
-_Business Performance Dashboard_
+__2Business Performance Dashboard__
 
 
 
@@ -150,7 +150,7 @@ _Business Performance Dashboard_
 
 
 
-_HR Analytics Dashboard_
+__3)HR Analytics Dashboard__
 
 
 
@@ -167,7 +167,7 @@ _HR Analytics Dashboard_
 
 
 
-_Survey Analysis Dasboard_
+__4)Survey Analysis Dasboard__
 
 
 
