@@ -158,7 +158,6 @@ __3)HR Analytics Dashboard__
 
 
 
-
     ->Transformed data using Power Query and performed the ETL operations.
 
     ->Key metrics - employee count, attrition, attrition rate, average salary, average age, and average tenure. 
@@ -173,7 +172,6 @@ __3)HR Analytics Dashboard__
 
 
 __4)Survey Analysis Dasboard__
-
 
 
 
