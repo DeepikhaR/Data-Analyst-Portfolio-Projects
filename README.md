@@ -106,24 +106,24 @@ https://github.com/DeepikhaR/Data-Analyst-Portfolio-Projects/tree/a5bcdbdda63f89
 
 __1)Ecommerce Sales Dashboard__
 
+ 
 
 
+   1)Transformed data using Power Query and performed the ETL operations.
 
-  1)Transformed data using Power Query and performed the ETL operations.
+   2)Used time intelligence function in DAX for calculating Year to Date,Previous Year to Date , Year over Year.
 
-  2)Used time intelligence function in DAX for calculating Year to Date,Previous Year to Date , Year over Year.
+   3)Key Metrics -- Year to Date(YTD) Sales, YTD Profit , YTD Profit Margin , YTD Quantity.
 
-  3)Key Metrics -- Year to Date(YTD) Sales, YTD Profit , YTD Profit Margin , YTD Quantity.
+   4)Displayed the top and bottom 5 Products based on YTD sales in two different column charts.
 
-  4)Displayed the top and bottom 5 Products based on YTD sales in two different column charts.
+   5)The YTD sales based on region and shipping is visualized using two different Donut charts.
 
-  5)The YTD sales based on region and shipping is visualized using two different Donut charts.
+   6)Also provided the analyzes based on Sales by Category and Sales by State. 
 
-  6)Also provided the analyzes based on Sales by Category and Sales by State. 
+   7)Customized the trend icon based on conditions.
 
-  7)Customized the trend icon based on conditions.
-
-  8)Added slicers to filter out using the three options Consumer , Home Office , Corporate.
+   8)Added slicers to filter out using the three options Consumer , Home Office , Corporate.
 
 
 
@@ -131,7 +131,7 @@ __1)Ecommerce Sales Dashboard__
 
 
 
-__2Business Performance Dashboard__
+__2)Business Performance Dashboard__
 
 
 
