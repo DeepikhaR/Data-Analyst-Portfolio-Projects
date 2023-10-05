@@ -14,29 +14,32 @@ https://github.com/DeepikhaR/Data-Analyst-Portfolio-Projects/tree/a5bcdbdda63f89
 __1)COVID Analysis__
 
 
-
   In this COVID-19 analysis project, I used data-driven techniques to provide a deep understanding of the global pandemic. 
 
-  1)Top Countries Analysis: I conducted an analysis, utilizing Plotly to craft a variety of informative charts, to pinpoint the countries mostly 
+
+  
+
+  ->Top Countries Analysis: I conducted an analysis, utilizing Plotly to craft a variety of informative charts, to pinpoint the countries mostly 
   impacted by COVID-19. These visualizations showcased the nations with the highest total cases, maximum deaths, total recoveries, and active 
   cases. 
 
-  2)Cases over Time: Through interactive line charts, I meticulously tracked the progression of COVID-19 cases over time. 
+  ->Cases over Time: Through interactive line charts, I meticulously tracked the progression of COVID-19 cases over time. 
 
-  3)Population vs. Testing Ratio: I explored the ratio between a country's population and the total number of COVID-19 tests administered. This 
+  ->Population vs. Testing Ratio: I explored the ratio between a country's population and the total number of COVID-19 tests administered. This 
   ratio showed the effectiveness of testing strategies and testing coverage relative to the population.
 
-  4)Death and Recovery Ratios: By assessing the ratio between the number of deaths and total recoveries, I understood the severity of the 
+  ->Death and Recovery Ratios: By assessing the ratio between the number of deaths and total recoveries, I understood the severity of the 
   pandemic in different regions. 
 
-  5)Test-to-Confirmed Ratio: I investigated the ratio between the total tests conducted and confirmed cases. This metric offered insights into a 
+  ->Test-to-Confirmed Ratio: I investigated the ratio between the total tests conducted and confirmed cases. This metric offered insights into a 
   country's testing efficiency .
 
-  6)Death-to-Serious Cases Ratio: Analyzing the ratio between deaths and serious cases, I provided a view of the pandemic's impact on individuals 
+  ->Death-to-Serious Cases Ratio: Analyzing the ratio between deaths and serious cases, I provided a view of the pandemic's impact on individuals 
   with severe illness.
 
-  7)Most Affected Countries: Finally, I identified and ranked the most affected countries based on total deaths, total recoveries, and active 
-  cases. 
+  ->Most Affected Countries: Finally, I identified and ranked the most affected countries based on total deaths, total recoveries, and active 
+   cases. 
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
