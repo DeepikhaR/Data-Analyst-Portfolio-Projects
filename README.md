@@ -1,6 +1,6 @@
 **Data-Analyst-Portfolio-Projects**
 
-I have engaged in multiple projects involving Power BI, Python, and SQL. Explore detailed project information categorized below.
+I have engaged in multiple projects involving Power BI and Python . Explore detailed project information categorized below.
 
 
 **Python EDA projects**
